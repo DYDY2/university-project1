@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "733841261711",
+    "project_id": "rtcuckoo",
+    "storage_bucket": "rtcuckoo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733841261711:android:1339fc48bbf5b766641cfa",
+        "android_client_info": {
+          "package_name": "com.fruitsoda.rtcuckoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733841261711-c460il9pl3blvbn88hf8la6503pupc1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fruitsoda.rtcuckoo",
+            "certificate_hash": "cf5d121ec78da681b031c00e679b431a408b07bc"
+          }
+        },
+        {
+          "client_id": "733841261711-86ea2eslj5ujr3oo722optqm58guf6ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Q8DdUwm7Hq3OJsp2wTlgiCblcMY9rgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733841261711-86ea2eslj5ujr3oo722optqm58guf6ov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
